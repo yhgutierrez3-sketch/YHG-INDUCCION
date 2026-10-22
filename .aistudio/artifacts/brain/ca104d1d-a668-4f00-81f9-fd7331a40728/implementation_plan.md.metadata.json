@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de arquitectura y diseño para separar de forma completa los roles de Instructor y Aprendiz en la plataforma de Inducción SENA (Acuerdo 0009 de 2024), automatizar el almacenamiento en Google Sheets en segundo plano sin intervención del aprendiz, y proveer un panel de seguimiento exclusivo para el instructor con generación de enlaces para compartir.",
+  "updatedAt":  "2026-10-21T16:10:12.917403361Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
